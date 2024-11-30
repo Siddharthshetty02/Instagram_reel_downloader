@@ -1,0 +1,6 @@
+Project Prerequisites:
+Python Installed: Ensure Python 3.x is installed on your system.
+Install Required Libraries: Install the following packages by running:
+
+To download the libraries:
+bash : pip install requests beautifulsoup4
