@@ -1,0 +1,8 @@
+To run the file:
+
+Running the Script
+Save the script to a file, for example, instagram_reel_downloader.py.
+Run the script in the terminal
+bash : python instagram_reel_downloader.py
+Paste the URL of the Instagram reel when prompted.
+The reel will be downloaded into the reels folder in the current directory.
