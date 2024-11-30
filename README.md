@@ -16,3 +16,6 @@ instagram-reel-downloader/
 ## Known Limitations
 Private Accounts: Reels from private accounts cannot be downloaded without proper authentication.
 Terms of Service: The script is for educational purposes and may violate Instagram's terms of service if used improperly.
+
+## SIDDHARTH RAGHUNATHA SHETTY
+Developer and maintainer
