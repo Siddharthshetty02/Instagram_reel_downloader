@@ -18,4 +18,4 @@ Private Accounts: Reels from private accounts cannot be downloaded without prope
 Terms of Service: The script is for educational purposes and may violate Instagram's terms of service if used improperly.
 
 ## SIDDHARTH RAGHUNATHA SHETTY
-Developer and maintainer
+Developer and Maintainer
